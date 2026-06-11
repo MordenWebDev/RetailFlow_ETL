@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd">
+  <talendfile:ContextType xmi:id="_wy1-8GVvEfGjSZ6tLlcIFg" confirmationNeeded="false" hide="true" name="Default">
+    <contextParameter xmi:id="_sYL8EGVwEfGjSZ6tLlcIFg" comment="" name="mysql_host" prompt="mysql_host?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_sYL8EWVwEfGjSZ6tLlcIFg" comment="" name="mysql_port" prompt="mysql_port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_sYL8EmVwEfGjSZ6tLlcIFg" comment="" name="mysql_database" prompt="mysql_database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_sYL8E2VwEfGjSZ6tLlcIFg" comment="" name="mysql_user" prompt="mysql_user?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_sYL8FGVwEfGjSZ6tLlcIFg" comment="" name="mysql_password" prompt="mysql_password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value=""/>
+    <contextParameter xmi:id="_sYL8FWVwEfGjSZ6tLlcIFg" comment="" name="sf_account" prompt="sf_account?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_sYL8FmVwEfGjSZ6tLlcIFg" comment="" name="sf_user" prompt="sf_user?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+    <contextParameter xmi:id="_sYL8F2VwEfGjSZ6tLlcIFg" comment="" name="sf_password" prompt="sf_password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value=""/>
+    <contextParameter xmi:id="_sYL8GGVwEfGjSZ6tLlcIFg" comment="" name="sf_warehouse" prompt="sf_warehouse?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value=""/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_t10-wGVwEfGjSZ6tLlcIFg" confirmationNeeded="false" hide="false" name="DEV">
+    <contextParameter xmi:id="_t10-wWVwEfGjSZ6tLlcIFg" comment="" name="mysql_host" prompt="mysql_host?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_t10-wmVwEfGjSZ6tLlcIFg" comment="" name="mysql_port" prompt="mysql_port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="3307"/>
+    <contextParameter xmi:id="_t10-w2VwEfGjSZ6tLlcIFg" comment="" name="mysql_database" prompt="mysql_database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="retail_db"/>
+    <contextParameter xmi:id="_t10-xGVwEfGjSZ6tLlcIFg" comment="" name="mysql_user" prompt="mysql_user?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="root"/>
+    <contextParameter xmi:id="_t10-xWVwEfGjSZ6tLlcIFg" comment="" name="mysql_password" prompt="mysql_password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value=""/>
+    <contextParameter xmi:id="_t10-xmVwEfGjSZ6tLlcIFg" comment="" name="sf_account" prompt="sf_account?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="lzmcjlo-gb95594"/>
+    <contextParameter xmi:id="_t10-x2VwEfGjSZ6tLlcIFg" comment="" name="sf_user" prompt="sf_user?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="TALEND_SVC"/>
+    <contextParameter xmi:id="_t10-yGVwEfGjSZ6tLlcIFg" comment="" name="sf_password" prompt="sf_password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:RDm3xnAUj4UKUFRKsTQQmmR3+0OX94RkN07pEqetFor1e8fM17qzrwYCoAWvgJ6EP6O6Lg=="/>
+    <contextParameter xmi:id="_t10-yWVwEfGjSZ6tLlcIFg" comment="" name="sf_warehouse" prompt="sf_warehouse?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="RETAIL_WH"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType xmi:id="_t10-ymVwEfGjSZ6tLlcIFg" confirmationNeeded="false" hide="false" name="PROD">
+    <contextParameter xmi:id="_t10-y2VwEfGjSZ6tLlcIFg" comment="" name="mysql_host" prompt="mysql_host?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="localhost"/>
+    <contextParameter xmi:id="_t10-zGVwEfGjSZ6tLlcIFg" comment="" name="mysql_port" prompt="mysql_port?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="3307"/>
+    <contextParameter xmi:id="_t10-zWVwEfGjSZ6tLlcIFg" comment="" name="mysql_database" prompt="mysql_database?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="retail_db"/>
+    <contextParameter xmi:id="_t10-zmVwEfGjSZ6tLlcIFg" comment="" name="mysql_user" prompt="mysql_user?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="root"/>
+    <contextParameter xmi:id="_t10-z2VwEfGjSZ6tLlcIFg" comment="" name="mysql_password" prompt="mysql_password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value=""/>
+    <contextParameter xmi:id="_t10-0GVwEfGjSZ6tLlcIFg" comment="" name="sf_account" prompt="sf_account?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="lzmcjlo-gb95594"/>
+    <contextParameter xmi:id="_t10-0WVwEfGjSZ6tLlcIFg" comment="" name="sf_user" prompt="sf_user?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="TALEND_SVC"/>
+    <contextParameter xmi:id="_t10-0mVwEfGjSZ6tLlcIFg" comment="" name="sf_password" prompt="sf_password?" promptNeeded="false" repositoryContextId="built-in" type="id_Password" value="enc:system.encryption.key.v1:kd6u3csHLQ+rsT6DXXR5iIpCGYYrqhmN2uj+v8ajOq4bB79qDxJHtC+UTkfUMl8P5hJF9g=="/>
+    <contextParameter xmi:id="_t10-02VwEfGjSZ6tLlcIFg" comment="" name="sf_warehouse" prompt="sf_warehouse?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="RETAIL_WH"/>
+  </talendfile:ContextType>
+</xmi:XMI>
