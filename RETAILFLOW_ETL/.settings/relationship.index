@@ -126,6 +126,64 @@
   } ]
 }, {
   "baseItem" : {
+    "id" : "_hINJcGYcEfG3EqmmT7cWxQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Eag9kGV6EfGjSZ6tLlcIFg",
+    "version" : "Latest",
+    "type" : "property"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_jg1_QGlSEfGd4cGsmho8Xw",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "RETAILFLOW_ETL:_5n0lIGV7EfGjSZ6tLlcIFg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "RETAILFLOW_ETL:_5w_OkGWDEfGjSZ6tLlcIFg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "RETAILFLOW_ETL:_aMKkoGV9EfGjSZ6tLlcIFg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "RETAILFLOW_ETL:_cD9zwGV9EfGjSZ6tLlcIFg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "RETAILFLOW_ETL:_dcRqgGV9EfGjSZ6tLlcIFg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "RETAILFLOW_ETL:_e9NRwGV9EfGjSZ6tLlcIFg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "RETAILFLOW_ETL:_kjHYEGWCEfGjSZ6tLlcIFg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "RETAILFLOW_ETL:_pXoeoGixEfGnttDo9MCcoA",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "RETAILFLOW_ETL:_u5enkGWFEfGjSZ6tLlcIFg",
+    "version" : "Latest",
+    "type" : "job"
+  }, {
+    "id" : "RETAILFLOW_ETL:_xJFJ4Gh-EfGnttDo9MCcoA",
+    "version" : "Latest",
+    "type" : "job"
+  } ]
+}, {
+  "baseItem" : {
     "id" : "_kjHYEGWCEfGjSZ6tLlcIFg",
     "version" : "0.1",
     "type" : "job"
@@ -142,6 +200,17 @@
     "id" : "_MfTogGV8EfGjSZ6tLlcIFg - RAW_STORES",
     "version" : "Latest",
     "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_pXoeoGixEfGnttDo9MCcoA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Eag9kGV6EfGjSZ6tLlcIFg",
+    "version" : "Latest",
+    "type" : "property"
   } ]
 }, {
   "baseItem" : {
@@ -165,5 +234,16 @@
     "id" : "_MfTogGV8EfGjSZ6tLlcIFg - RAW_CUSTOMERS",
     "version" : "Latest",
     "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_xJFJ4Gh-EfGnttDo9MCcoA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Eag9kGV6EfGjSZ6tLlcIFg",
+    "version" : "Latest",
+    "type" : "property"
   } ]
 } ]
